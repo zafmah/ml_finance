@@ -6,7 +6,8 @@ Contributions are very welcome!
 
 Thanks to our sponsors [frontmark](https://www.frontmark.de/) and [RIVACON ](https://www.rivacon.com/).
 
-[<img src="images/favicon_2.png" width='100px'>](https://www.frontmark.de/)
+[<img src="images/favicon_2.png" width='70px'>](https://www.frontmark.de/)
+
 [<img src="images/logo.png" width='100px'>](https://www.rivacon.com/)
 
 
