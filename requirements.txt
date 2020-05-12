@@ -4,5 +4,4 @@ matplotlib
 sklearn
 jupyter_contrib_nbextensions
 ipywidgets
-pailab
 tensorflow>=2.0
