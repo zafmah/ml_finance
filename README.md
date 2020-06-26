@@ -15,6 +15,7 @@ An overview of all existing notebooks is contained in the [overview](overview.ip
 ## Data Visualisation with ML
 
 ### Volatility Surface Visualisation
+<img src="./images/vol_movie_mds.gif" alt="" width=320px>
 
 The idea of [this notebook](Volatilities_MDS.ipynb) is to visualize distances and the development of volatility surfaces. For this purpose the Multi Dimensional Scaling (MDS) algorithm is used.
 
