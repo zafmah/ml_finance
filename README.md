@@ -21,6 +21,7 @@ The idea of [this notebook](Volatilities_MDS.ipynb) is to visualize distances an
 ## Scoring
 
 ### Peer Group Scoring using Siamese networks
+<img src="./images/siamese.png" alt="Siamese network for peer group scoring" width=320px>
 
 [This notebook](peer_scoring_siamese/siamese.ipynb) illustrates the application of Siamese networks to construct a peer group scoring used to create peer groups for structured products. 
 
