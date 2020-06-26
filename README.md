@@ -7,7 +7,7 @@
 This is a collection of jupyter notebooks containing basic use cases of Machine Learning methods in the financial sector. The notebooks use only standard ML and Data Science toolkits, most notably sklearn and tensorflow. It is intended as a first introduction and reference for certain use cases.
 
 # Start
-Open the overview.ipynb notebook to get started with the use cases.
+Open the overview.ipynb notebook to get started with the use cases. Note that all use cases with tensorflow are designed to work with tensorflow 2.2 or higher versions. If you do not have tohe ability to checkout the repository and run the notebooks on your platform, you can just click the binder-badge to use the binder hosted jupyter to play around with the examples.
 
 # Notebook overview
 An overview of all existing notebooks is contained in the [overview](overview.ipynb) notebook.
