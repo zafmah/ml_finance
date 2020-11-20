@@ -26,6 +26,9 @@ The idea of [this notebook](Volatilities_MDS.ipynb) is to visualize distances an
 
 [This notebook](peer_scoring_siamese/siamese.ipynb) illustrates the application of Siamese networks to construct a peer group scoring used to create peer groups for structured products. 
 
+## Approximating Pricing using Neural Networks
+Speeding up computation for costly valuation methods is of interest in many risk valuation tasks such as computing Var/C-VaR or XVA adjustments. One such approach is to train Neural Networks to approximate the pricing function. Here, although the training of the network may be quite costly, it can efficiently be evaluated within risk applications. 
+An illustrative example where beginners may learn how to setup a neural network with tensorflow, evaluate results, setting different learning rate schedules and computing greeks with AAD for the simple case of using an ANN to approximate the Black Scholes call price formula (probably the most computationaly efficient model but chosen for the ease of presentation) can be found [here](nn_approximation_bs/nn_approximation_bs.ipynb).
 
 ## Deep Hedging
 
